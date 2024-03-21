@@ -73,6 +73,8 @@ print(result_filter_lambda)
 
 ## Reduce ##
 
+2, 5, 10, 21, 3, 30]
+
 def sum_two_values(first_value, second_value):
     print(first_value)
     print(second_value)
